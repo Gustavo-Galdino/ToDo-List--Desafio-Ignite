@@ -1,0 +1,26 @@
+.container {
+    align-items: center;
+    background: var(--gray-700);
+    display: flex;
+    height: 12.5rem;
+    justify-content: center;
+    width: 100%;
+}
+
+.container img {
+    margin-right: 0.75rem;
+    height: 36px;
+    width: 22px;
+}
+.container span {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.container span:nth-child(2) {
+    color: var(--blue);
+}
+
+.container span:nth-child(3) {
+    color: var(--purple-dark);
+}

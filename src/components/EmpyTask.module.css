@@ -1,0 +1,29 @@
+.tasks__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-top: 1px solid var(--gray-400);
+    border-radius: 8px;
+    margin-top: 1.5rem;
+
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 4rem;
+
+}
+
+.tasks__container img {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+.tasks__container p {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.tasks__container p:last-child {
+    font-weight: 400;
+}
