@@ -9,8 +9,6 @@ Esse é um projeto criado no Desafio 01 - Praticando os conceitos do ReactJS.
 * Remover tarefas da lista
 * Mostrar o número total de tarefas e o número de tarefas concluídas
 
-### Link Vercel
-
 [link na Vercel](https://to-do-list-desafio-ignite.vercel.app/)
 
 ## Considerações finais
